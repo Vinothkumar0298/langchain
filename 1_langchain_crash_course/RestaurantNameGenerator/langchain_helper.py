@@ -8,7 +8,7 @@ from secret_key import openapi_key
 import os
 # os.environ['OPENAI_API_KEY'] = openapi_key
 os.environ["AIPLATFORM_API_KEY"] = openapi_key
-os.environ["AIPLATFORM_URL"] = "https://api.waip.wiprocms.com/v1.1/"
+os.environ["AIPLATFORM_URL"] = "https://api.xxxxxxxxxxx.com/v1.1/"
 
 llm = OpenAI(temperature=0.7)
 
