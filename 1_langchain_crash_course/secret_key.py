@@ -1,2 +1,0 @@
-openapi_key = "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"
-serpapi_key = ""
